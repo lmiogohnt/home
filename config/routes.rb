@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'top_page/top'
+  get 'top_page/product'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
